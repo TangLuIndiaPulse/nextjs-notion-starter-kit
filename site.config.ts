@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Laxmi Tang Blog World',
-  domain: 'chaodit.com',
+  domain: 'hellotanglu.com',
   author: 'LU Tang',
 
   // open graph metadata (optional)
