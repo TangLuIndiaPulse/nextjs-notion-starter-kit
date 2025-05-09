@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'chaodit',
+  twitter: 'cheenilu',
   github: 'chaodit',
-  linkedin: 'Chao Di Tang',
+  linkedin: 'tanglu1018@gmail.com',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
