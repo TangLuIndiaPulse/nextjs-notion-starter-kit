@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'cheenilu',
-  github: 'chaodit',
-  linkedin: 'tanglu1018@gmail.com',
+  github: 'TangLuIndiaPulse',
+  linkedin: 'Tang Lu',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
