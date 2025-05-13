@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'LU Tang',
 
   // open graph metadata (optional)
-  description: 'My Blogs.',
+  description: 'TangLu' Blogs.',
 
   // social usernames (optional)
   twitter: 'cheenilu',
